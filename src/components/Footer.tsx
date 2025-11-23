@@ -22,7 +22,7 @@ const Footer = () => {
               </a>
               <a href="https://huggingface.co/ErebusTN/EGen_V1" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors group">
                 <Github className="h-4 w-4" />
-                Hugging Face
+                GitHub Profile
               </a>
             </div>
           </div>
@@ -52,7 +52,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center gap-4">
               <Button variant="ghost" size="sm" asChild>
-                <a href="https://huggingface.co/ErebusTN/EGen_V1" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/EGen-V" target="_blank" rel="noopener noreferrer">
                   <Github className="h-5 w-5" />
                 </a>
               </Button>
